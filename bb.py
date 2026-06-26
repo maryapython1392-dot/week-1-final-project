@@ -1,0 +1,7 @@
+name = input(" اسمت جه")
+age = int(input("سنت چقدره"))
+price = float(input("قیمت را به اعشاری بنویس"))
+print("welcome", name)
+print("age after 10 years", age + 10)
+print("price:", price + 5.5)
+print("you can build the future")
